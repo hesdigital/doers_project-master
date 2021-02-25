@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31942542989",
+    "project_id": "doers-project",
+    "storage_bucket": "doers-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31942542989:android:6e20e4472ba55ae68784c4",
+        "android_client_info": {
+          "package_name": "com.hesdigitech.doers_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31942542989-mh2rnhj63mp2hrpeqe03d2c53d9slks6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Irq0aBxHRViGUKNz7hNzM1ZkuX28A-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31942542989-mh2rnhj63mp2hrpeqe03d2c53d9slks6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
